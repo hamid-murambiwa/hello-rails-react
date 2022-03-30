@@ -5,3 +5,8 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
+greet1 = Greeting.create(greeting: "Hello there, welcome my react app")
+greet2 = Greeting.create(greeting: "Ola!, welcome my react app")
+greet3 = Greeting.create(greeting: "I hope you're doing well, welcome my react app")
+greet4 = Greeting.create(greeting: "I hope you're having a great week, welcome my react app")
+greet5 = Greeting.create(greeting: "Hi everyone, welcome my react app")

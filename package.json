@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/hamid-murambiwa/hello-rails-react#readme",
   "dependencies": {
+    "react-router": "^6.2.2",
     "redux-thunk": "^2.4.1"
   }
 }

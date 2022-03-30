@@ -28,6 +28,7 @@ gem "stimulus-rails"
 gem "jbuilder"
 
 gem 'react-rails'
+gem 'rubocop', '>= 1.0', '< 2.0'
 gem 'webpacker'
 
 # Use Redis adapter to run Action Cable in production

@@ -1,0 +1,29 @@
+{
+  "name": "hello-rails-react",
+  "version": "1.0.0",
+  "description": "new install",
+  "main": "babel.config.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamid-murambiwa/hello-rails-react.git"
+  },
+  "keywords": [
+    "2Jrk50"
+  ],
+  "author": "hamid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamid-murambiwa/hello-rails-react/issues"
+  },
+  "homepage": "https://github.com/hamid-murambiwa/hello-rails-react#readme",
+  "dependencies": {
+    "redux-thunk": "^2.4.1"
+  }
+}
